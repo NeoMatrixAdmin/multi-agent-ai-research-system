@@ -1,0 +1,11 @@
+# env
+.env
+venv/
+__pycache__/
+
+# outputs
+outputs/reports/*.md
+
+# OS
+.DS_Store
+Thumbs.db

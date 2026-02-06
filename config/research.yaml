@@ -1,0 +1,6 @@
+research:
+  min_sources: 10
+  max_sources: 20
+  min_confidence: 0.75
+  max_iterations: 3
+  parallel_tasks: true
